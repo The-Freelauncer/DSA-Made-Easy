@@ -1,6 +1,6 @@
 Hello Everyone,
 
-This is The Freelauncer , and is hereby Happy to announce that I have come up with a nice project of Saving Contact Details of various persons using the software.
+This is The Freelauncer , and is hereby Happy to announce that I have come up with a nice project of Saving Contact Details of various persons using the software , it mainly focuses on Saving , Deleting , Editing and Displaying the Contact Numbers Saved .
 
 The Software is Completely Built with Python and is not linked with the database , which means the inputed data gets erased upon completion of the prosecution of the code.
 
